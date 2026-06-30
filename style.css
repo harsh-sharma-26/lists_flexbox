@@ -13,7 +13,7 @@ html {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 12px;
+  padding: 24px;
 }
 
 #first_fbox h1 {
