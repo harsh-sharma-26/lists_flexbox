@@ -17,15 +17,18 @@ html {
 }
 
 #first_fbox h1 {
+  font-family: "Stack Sans Headline", sans-serif;
   font-size: 48px;
 }
 
 #first_fbox p {
+  font-family: "Stack Sans Headline", sans-serif;
   font-size: 18px;
   color: rgb(125, 125, 125);
 }
 
 ul {
+  font-family: "Sansation", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,6 +46,11 @@ ul li:hover {
   border: 1px solid rgb(81, 81, 81);
   cursor: pointer;
   box-shadow: 0px 0px 10px rgb(39, 39, 39);
+}
+
+ul li p {
+  font-size: 14px;
+  color: rgb(125, 125, 125);
 }
 
 .second_fbox {
